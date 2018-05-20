@@ -1,6 +1,8 @@
 # PlayingWithVue
 Getting to know Vue...
 
+link to the site: https://sabasabo.github.io/PlayingWithVue/.
+
 Created using vue-cli init: vue-cli init webpack THIS_PROJECT.
 
 How to run:
