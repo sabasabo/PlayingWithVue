@@ -73,6 +73,7 @@ module.exports = {
     // Set to `true` or `false` to always turn it on or off
     bundleAnalyzerReport: process.env.npm_config_report
   },
+
   docs: {
       // Template for index.html
       index: path.resolve(__dirname, '../docs/index.html'),
@@ -80,7 +81,7 @@ module.exports = {
       // Paths
       assetsRoot: path.resolve(__dirname, '../docs'),
       assetsSubDirectory: 'static',
-      assetsPublicPath: './',
+      assetsPublicPath: '/',
     /**
      * Source Maps
      */
